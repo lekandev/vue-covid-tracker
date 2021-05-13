@@ -8,7 +8,7 @@
     <div class="text-gray-500 text-3xl mt-10 mb-6">
       Fetching Data
     </div>
-    <img :src="loadingImage" class="w-24 m-auto" alt="">
+    <img :src="loadingImage" class="w-24 m-auto" alt="loader">
   </main>
 </template>
 
